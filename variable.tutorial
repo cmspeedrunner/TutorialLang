@@ -1,0 +1,10 @@
+Welcome to my variable tutorial.
+First, to start, we are going to allocate 400 into the variable x.
+Now, we are going to output our variable x+x.
+This should output 800.
+
+Now we are going to do some string variable testing.
+Ok, so to start lets allocate "Hello, World!" into the variable y.
+Now, lets output our variable y.
+
+Thats it, thanks for reading it.

@@ -1,0 +1,20 @@
+This is a type conversion tutorial, for TutorialLang.
+
+To begin, we are going to allocate 400 into the variable x.
+Now we can output our variable x+x. Just to see what we get
+Now, because x is an integer, we get 800, now lets convert it to a string and see what we get.
+
+So, to convert all we have to do is change our variable x to a string.
+Now, we must output our variable x+x.
+
+Now lets allocate "True" into the variable y.
+That is not a bool yet, but a string. Lets convert it!
+
+First, lets output our variable y+y.
+Now, the program will change our variable y to a bool.
+And again, we must output our variable y+y. And it will change!
+
+We can very easily just display the type of data/variable by doing output the type of y.
+
+Thanks for reading the type conversion tutorial. Keep in mind things like the opener and this exit are not needed.
+I just like to thank people.
